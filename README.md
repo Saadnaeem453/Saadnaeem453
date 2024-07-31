@@ -1,5 +1,7 @@
-**## 🌟 Hi there, I'm Saad Naeem! 🌟**
+** 🌟 Hi there, I'm Saad Naeem! 🌟**
 
+
+![Blue and Navy Modern LinkedIn article cover image](https://github.com/user-attachments/assets/339f688b-a6cf-4bb9-a93a-99cc48d2026b)
 ---
 
 ### 🔭 I’m currently working on ...
@@ -13,6 +15,7 @@
 ### 🌱 I’m currently learning ...
 - MySQL
 - NestJS
+
 - RTK Query
 
 ### 👯 I’m looking to collaborate on ...
@@ -38,6 +41,6 @@ I love exploring new technologies and constantly challenge myself to improve my 
 
 ---
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadnaeem453&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadnaeem453&layout=compact&theme=radical)
 
