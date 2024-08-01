@@ -11,11 +11,6 @@
 - MongoDB
 - TypeScript
 
-### 🌱 I’m currently learning ...
-
-- MySQL
-- NestJS
-- RTK Query
 
 ### 📫 How to reach me:
 - Email: [jsaad3663@gmail.com](mailto:jsaad3663@gmail.com)
