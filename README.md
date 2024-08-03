@@ -22,8 +22,3 @@ I love exploring new technologies and constantly challenge myself to improve my 
 ---
 
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadnaeem453&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadnaeem453&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadnaeem453&theme=radical)
-
-[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadnaeem453&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
