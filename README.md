@@ -10,6 +10,8 @@
 - Express.js
 - MongoDB
 - TypeScript
+- FastApi
+- Python
 
 
 ### 📫 How to reach me:
