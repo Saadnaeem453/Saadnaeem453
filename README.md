@@ -78,8 +78,3 @@ https://www.linkedin.com/in/saad-naeem-271404218
 ---
 
 
-## GitHub Achievements
-
-<p align="center">
-  <img src="images/github-achievements.png" alt="GitHub Achievements" width="700">
-</p>
