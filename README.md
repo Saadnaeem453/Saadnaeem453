@@ -1,112 +1,78 @@
-<h1 align="center">Hi 👋, I'm Saad Naeem</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saadnaeem453/Saadnaeem453/main/Yellow%20Photo%20Header%20General%20Linkedin%20Banner%20(1)%20(1).jpg" width="100%" alt="Saad Naeem Banner">
+</p>
 
-<h3 align="center">
-Full Stack AI Engineer • Agentic AI Developer • AI Automation Specialist
-</h3>
+<h1 align="center">Saad Naeem</h1>
 
 <p align="center">
-I build intelligent AI applications, voice agents, workflow automation, and scalable SaaS platforms that help businesses automate operations and grow faster.
+Full Stack AI Engineer • Agentic AI Systems • AI Automation
+</p>
+
+<p align="center">
+Building production-ready AI applications, voice agents, workflow automation, and scalable SaaS platforms.
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🤖 Building **Agentic AI Systems**
-- 📞 Developing **AI Voice Calling Agents**
-- 💬 Creating **AI Chatbots & Assistants**
-- ⚡ Automating businesses using **n8n**
-- 🌐 Building scalable **Full Stack SaaS Applications**
-- 🧠 Exploring the latest advancements in **LLMs, AI Agents & Automation**
+I'm a Full Stack AI Engineer focused on designing and shipping production-grade software. My work spans AI agents, LLM-powered applications, voice AI, backend architecture, and modern web platforms.
+
+I enjoy solving engineering problems that require more than just connecting APIs—building systems that are scalable, maintainable, and designed for real-world business use.
 
 ---
 
-## 🛠️ Tech Stack
+## Expertise
 
-### 🤖 AI & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-
-**AI Technologies**
-
-- OpenAI
-- Claude
-- Gemini
-- LangChain
-- CrewAI
-- AutoGen
-- Pinecone
-- pgvector
-- n8n
-- Vapi
-- Retell AI
-- ElevenLabs
-- Twilio
+- Agentic AI Systems
+- AI Voice Agents
+- Workflow Automation
+- AI Chatbots
+- SaaS Architecture
+- REST APIs
+- Backend Engineering
+- Full Stack Web Applications
 
 ---
 
-### 💻 Frontend
+## Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
+**AI**
 
----
+`OpenAI` `Anthropic` `Gemini` `LangChain` `n8n` `Vapi` `Retell AI` `Twilio`
 
-### ⚙️ Backend
+**Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis" />
-</p>
+`Python` `FastAPI` `Node.js` `Express.js` `PostgreSQL` `MongoDB` `Redis`
 
----
+**Frontend**
 
-### 🚀 DevOps & Tools
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman" />
-</p>
+**Infrastructure**
+
+`Docker` `Git` `Linux` `Vercel`
 
 ---
 
-## 💼 What I Build
+## Currently Building
 
-- 🤖 AI Agents
-- 🧠 Multi-Agent Systems
-- 📞 AI Calling Agents
-- 💬 AI Chatbots
-- 🔄 Workflow Automation
-- 🏢 CRM Platforms
-- 📈 SaaS Applications
-- 🔗 API Integrations
-- 📊 Dashboards
-- ⚡ Business Automation
+- Production AI Agents
+- Voice AI Platforms
+- AI-powered SaaS Products
+- Business Process Automation
+- CRM & Internal Business Systems
 
 ---
 
-## 🌱 Currently Learning
+## Connect
 
-- Advanced Agentic AI
-- Multi-Agent Architectures
-- MCP (Model Context Protocol)
-- AI Infrastructure
-- Kubernetes
+**Email**
 
----
+**jsaad3663@gmail.com**
 
-## 📫 Connect With Me
+**LinkedIn**
 
-📧 **Email:** **jsaad3663@gmail.com**
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/saad-naeem-271404218/
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building AI systems that automate real business workflows. Most of my time is spent experimenting with LLMs, AI agents, workflow automation, and scalable backend architectures.
+https://www.linkedin.com/in/saad-naeem-271404218
 
 ---
